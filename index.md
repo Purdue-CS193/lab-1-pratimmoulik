@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+# Pratim Moulik's first CS 193 lab
+- I like computers
+- I like GitHub
+- This is a neat website.
+
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
